@@ -1,0 +1,13 @@
+{
+    "name": "qwert/ghfhg",
+    "description": "the first package",
+    "type": "project",
+    "authors": [{
+        "name": "Pasindu Madushan",
+        "email": "tvpasindu@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "tv-pasindu/testprojectpackages": "dev-master"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "def7ec2081fa9341fa4d6749c369b1dc",
+    "packages": [
+        {
+            "name": "tv-pasindu/testprojectpackages",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tvPasindu/Pasindu-Test-Package.git",
+                "reference": "b75139f55b5948d03001788301d7c2a993dbdbf4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tvPasindu/Pasindu-Test-Package/zipball/b75139f55b5948d03001788301d7c2a993dbdbf4",
+                "reference": "b75139f55b5948d03001788301d7c2a993dbdbf4",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "package",
+            "autoload": {
+                "psr-4": {
+                    "tvPasindu\\testprojectpackages\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "mit"
+            ],
+            "authors": [
+                {
+                    "name": "Pasindu Madushan",
+                    "email": "tvpasindu@gmail.com"
+                }
+            ],
+            "description": "My first packagist package (Testing)",
+            "time": "2019-07-21T12:54:51+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "tv-pasindu/testprojectpackages": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
